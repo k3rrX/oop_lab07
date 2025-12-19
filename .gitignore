@@ -1,0 +1,56 @@
+# Compiled files
+*.exe
+*.o
+*.obj
+*.out
+*.app
+
+# Build directories
+build/
+bin/
+obj/
+Debug/
+Release/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# CMake
+CMakeFiles/
+cmake-build-*/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Executables
+lab07
+lab07.exe
+run_tests.exe
+simple_tests.exe
+comprehensive_tests.exe
+gtest_tests.exe
+tests.exe
+
+# Log files
+*.log
+log.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
+*.backup
+*.bak
+
+# Test coverage
+*.gcda
+*.gcno
+*.gcov
+
+# Dependencies
+googletest/
